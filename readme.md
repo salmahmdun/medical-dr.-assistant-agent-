@@ -1316,5 +1316,4 @@ The system may generate incorrect, incomplete, outdated, or unsupported informat
 
 All clinical outputs must be reviewed and validated by a qualified healthcare professional before being used for any clinical decision.
 
-No diagnosis, treatment, medication, or emergency decision should be made solely on the basis of the system's output.#   m e d i c a l - d r . - a s s i s t a n t - a g e n t -  
- 
+No diagnosis, treatment, medication, or emergency decision should be made solely on the basis of the system's output.
